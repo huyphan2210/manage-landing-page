@@ -4,7 +4,7 @@ import { ref } from 'vue';
 </script>
 
 <template>
-    <header></header>
+    <footer></footer>
 </template>
 
 <style scoped>
